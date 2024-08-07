@@ -1,0 +1,18 @@
+/*
+Theme Name: Divi Child
+Theme URI: https://diviextended.com/
+Version: 1.0
+Description: Child Theme of Divi
+Author: Divi Extended
+Template: Divi
+*/
+@import url("../Divi/style.css");
+
+
+/* Certified VA video description right hand column */
+@media only screen and (max-width: 980px) 
+{
+       
+  #tablet_ht_mfs { margin-top: 50px!important }
+   
+}
